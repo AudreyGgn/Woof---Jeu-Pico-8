@@ -1,6 +1,6 @@
 # Woof
 
-Mémorise les bonnes combinaisons de touches pour guider Babbage et son maître mal-voyant à travers le métro !
+Mémorise les bonnes combinaisons de touches pour guider le chien d'assistance Babbage et son maître malvoyant à travers le métro !
 
 ## Description
 
@@ -21,6 +21,7 @@ Ce projet a été réalisé par un groupe de 3 apprenant·e·s à l'école Ada T
 _Objectifs pédagogiques :_
 * Acquérir les premières compétences de langages de programmation
 * Acquérir les premières compétences du travail en équipe
+* Se familiariser avec l'utilisation de Git
 * Comprendre un environnement de développement spécifique (gestion de la boucle de jeu, affichage de sprites, gestion des inputs clavier, collisions 2D, camera 2D, gestion des ressources graphiques et sonores...)
 
 ## Améliorations envisagées
