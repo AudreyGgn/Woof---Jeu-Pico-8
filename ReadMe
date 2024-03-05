@@ -1,52 +1,29 @@
-Brainstorming
+# Woof
 
-Un perso qui avance et recule
-Un aveugle guidé par un muet via des suites de sons
+Mémorise les bonnes combinaisons de touches pour guider Babbage et son maître mal-voyant à travers le métro !
 
-Doit monter et descendre des marches. Il ne peut être guidé que par le son : des mélodies.
-Des suites de touches forment une mélodie.
+## Description
 
-Il doit changer de métro.
+![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 
+Ce mini-jeu a été développé sur [Pico-8](https://www.lexaloffle.com/pico-8.php), une "fantasy console" qui possède un environnement de développement complet (de l'éditeur de code aux graphismes, en passant par la musique) conçue pour créer, partager et jouer à des mini-jeux.
+👉 Pour jouer à notre jeu en ligne, c'est par [ici](https://www.lexaloffle.com/bbs/?tid=54885) !
 
+_Aperçu :_
 
-1°) Tester fonction suite de touche qui provoque l'action de monter
-2°) Ecrire les dialogues
-3°) Définir les sons associés aux touches
-4°) Créer le sprite du personnage
-(5°) Animer le sprite du personnage)
-6°) Définir les sprites du décor
-7°) Créer éléments déclencheurs des dialogues
-8°) Creuser notion de flag
-9°) Créer sons animations
-10°) Créer fond sonore
-11°) Gestion de la caméra
-12°) Gestion des déplacements du personnage : avancer et reculer sur 2 touches et 4 autres touches pour mélodies
+![Capture d'écran 1](./captures/capture1.png)
+![Capture d'écran 2](./captures/capture2.png)
 
+## Projet
 
-Dialogues :
-"Rouky, peux-tu me guider pour aller à Ada ? C'est mon premier jour !"
+Ce projet a été réalisé par un groupe de 3 apprenant·e·s à l'école Ada Tech School, sur une durée de sept jours.
 
-"Je ne peux plus avancer, que dois-je faire ?"
+_Objectifs pédagogiques :_
+* Acquérir les premières compétences de langages de programmation
+* Acquérir les premières compétences du travail en équipe
+* Comprendre un environnement de développement spécifique (gestion de la boucle de jeu, affichage de sprites, gestion des inputs clavier, collisions 2D, camera 2D, gestion des ressources graphiques et sonores...)
 
-"Aboie en appuyant sur (<), puis sur (^), puis sur (>) pour me prévenir que je dois monter un escalier."
+## Améliorations envisagées
 
-"Aboie en appuyant sur (<), puis sur (^), puis sur (>) pour me prévenir que je dois descendre un escalier."
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+* Plusieurs niveaux de difficultés
+* Avoir un écran d'accueil
